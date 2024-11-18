@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is a comprehensive SQL-based investigation into a fictional crime scenario, requiring analysis of multiple tables to identify suspects and connect clues. The work entails solving the case by interpreting witness statements, analyzing gym check-ins, identifying car registrations, and filtering based on physical and behavioral characteristics. The outcome includes identifying both the perpetrator and the mastermind behind the crime.
+This is my solution to the SQL Murder Mystery(https://mystery.knightlab.com/), requiring analysis of multiple tables to identify suspects and connect clues. The work entails solving the case by interpreting witness statements, analyzing gym check-ins, identifying car registrations, and filtering based on physical and behavioral characteristics. The outcome includes identifying both the perpetrator and the mastermind behind the crime.
 
 ## Table of Contents
 
