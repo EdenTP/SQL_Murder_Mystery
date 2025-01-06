@@ -167,8 +167,10 @@ average_income as (
 select 
   name, 
   annual_income, 
-  round(annual_income / avg_income, 2) 
+  round(annual_income / avg_income, 2) as xAvg_Income
 from 
   leads as l 
   inner join income as i on i.ssn = l.ssn 
   inner join average_income on 'Miranda Priestly' = l.name
+
+--Miranda Priestly	310000	5.82
